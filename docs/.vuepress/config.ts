@@ -41,6 +41,16 @@ export default {
           collapsible: true,
           children: [
             {
+              text: 'Общие вопросы',
+              collapsible: true,
+              children: [
+                {
+                  text: 'Какие методы HTTP-запросов вы знаете?',
+                  link: '#какие-методы-HTTP-запросов-вы-знаете?'
+                },
+              ]
+            },
+            {
               text: 'JS Core',
               collapsible: true,
               children: [

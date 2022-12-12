@@ -42,7 +42,6 @@ export default {
           children: [
             {
               text: 'Общие вопросы',
-              collapsible: true,
               children: [
                 {
                   text: 'Какие методы HTTP-запросов вы знаете?',
@@ -88,7 +87,6 @@ export default {
             },
             {
               text: 'JS Core',
-              collapsible: true,
               children: [
                 {
                   text: 'Какие в JS есть типы данных?',
@@ -158,7 +156,6 @@ export default {
             },
             {
               text: 'Функции',
-              collapsible: true,
               children: [
                 {
                   text: 'В чем разница между декларацией функции (function declaration) и функциональным выражением (function expression)?',

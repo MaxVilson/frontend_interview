@@ -58,7 +58,7 @@ export default {
                 },
                 {
                   text: 'Что такое Cross-Origin Resource Sharing? Как устранить проблемы с CORS?',
-                  link: '#что-такое-Cross-Origin-Resource-Sharing'
+                  link: '#что-такое-cross-origin-resource-sharing-как-устранить-проблемы-с-cors'
                 },
                 {
                   text: 'Что такое cookie?',

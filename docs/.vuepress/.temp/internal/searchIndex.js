@@ -25,6 +25,13 @@ export const searchIndex = [
       },
       {
         "level": 3,
+        "title": "Что такое Cross-Origin Resource Sharing? Как устранить проблемы с CORS?",
+        "slug": "что-такое-cross-origin-resource-sharing-как-устранить-проблемы-с-cors",
+        "link": "#что-такое-cross-origin-resource-sharing-как-устранить-проблемы-с-cors",
+        "children": []
+      },
+      {
+        "level": 3,
         "title": "Какие в JS есть типы данных?",
         "slug": "какие-в-js-есть-типы-данных",
         "link": "#какие-в-js-есть-типы-данных",

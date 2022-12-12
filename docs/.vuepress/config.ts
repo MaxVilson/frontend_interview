@@ -82,7 +82,7 @@ export default {
                 },
                 {
                   text: 'Что такое REST?',
-                  link: '#что-такое-REST'
+                  link: '#что-такое-rest'
                 },
               ]
             },

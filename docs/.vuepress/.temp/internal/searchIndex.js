@@ -67,6 +67,13 @@ export const searchIndex = [
       },
       {
         "level": 3,
+        "title": "Что такое REST?",
+        "slug": "что-такое-rest",
+        "link": "#что-такое-rest",
+        "children": []
+      },
+      {
+        "level": 3,
         "title": "Какие в JS есть типы данных?",
         "slug": "какие-в-js-есть-типы-данных",
         "link": "#какие-в-js-есть-типы-данных",

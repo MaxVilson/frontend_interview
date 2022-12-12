@@ -46,9 +46,16 @@ export const searchIndex = [
       },
       {
         "level": 3,
-        "title": "Какой максимальный размер cookie?",
-        "slug": "какои-максимальныи-размер-cookie-1",
-        "link": "#какои-максимальныи-размер-cookie-1",
+        "title": "Что означает директива use strict?",
+        "slug": "что-означает-директива-use-strict",
+        "link": "#что-означает-директива-use-strict",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Что означает директива use strict?",
+        "slug": "что-означает-директива-use-strict-1",
+        "link": "#что-означает-директива-use-strict-1",
         "children": []
       },
       {

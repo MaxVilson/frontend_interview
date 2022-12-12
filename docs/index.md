@@ -23,6 +23,34 @@
 </details>
 
 
+### Какие знаете коды ответа (состояния) HTTP?
+  <details>
+    <summary>Ответ:</summary>
+      <p>Информационные 100 - 199</p>
+      <p>Успешные 200 - 299</p>
+      <p>Перенаправления 300 - 399</p>
+      <p>Клиентские ошибки 400 - 499</p>
+      <p>Серверные ошибки 500 - 599</p>
+      <h4><b>Список популярных ответов</b></h4>
+
+| Код   | Описание               |
+| ------| ---------------------- |
+| 200   | OK                     |   
+| 400   | Bad Request            |   
+| 401   | Unauthorized           |  
+| 403   | Forbidden              |  
+| 404   | Not Found              |
+| 408   | Request Timeout        |
+| 500   | Internal Server Error  |
+| 502   | Bad Gateway            |
+| 503   | Service Unavailable    |
+
+
+  </details>
+
+
+
+
 
 
 

@@ -32,6 +32,20 @@ export const searchIndex = [
       },
       {
         "level": 3,
+        "title": "Что такое cookie?",
+        "slug": "что-такое-cookie",
+        "link": "#что-такое-cookie",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Какой максимальный размер cookie, а?",
+        "slug": "какои-максимальныи-размер-cookie-а",
+        "link": "#какои-максимальныи-размер-cookie-а",
+        "children": []
+      },
+      {
+        "level": 3,
         "title": "Какие в JS есть типы данных?",
         "slug": "какие-в-js-есть-типы-данных",
         "link": "#какие-в-js-есть-типы-данных",
